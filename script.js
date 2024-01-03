@@ -56,6 +56,14 @@ new Docute({
 
       '/en':{
         language: 'English'
+
+        sidebar: [
+          {
+           title: 'One',
+           links: '/url'
+          }
+        ]
+        
       },
 
       '/kor':{
